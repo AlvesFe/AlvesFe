@@ -11,7 +11,7 @@ Graduated in IT Management at FMU (Faculdades Metropolitanas Unidas)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![I'm](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![I'm](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![NODEJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)  ![enter image description here](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![e](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![e](https://img.shields.io/badge/VS_Code-14354C?style=for-the-badge&logo=visual-studio-code&logoColor=61DAFB) ![enter image description here](https://img.shields.io/badge/Microsoft_SQL_Server-14354C?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) ![enter image description here](https://img.shields.io/badge/Firebase-14354C?style=for-the-badge&logo=firebase&logoColor=white) ![e](https://img.shields.io/badge/Git-14354C?style=for-the-badge&logo=git&logoColor=white) 
 
 ### My Setup
-![Processor](https://img.shields.io/badge/AMD-Ryzen_7_2700-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
+![Processor](https://img.shields.io/badge/AMD-Ryzen_7_3700X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
 ![GPU](https://img.shields.io/badge/NVIDIA-GTX1060-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
 <p align="center">
