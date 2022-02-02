@@ -4,7 +4,6 @@
 
 [![E-mail](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:felipe.alves135@etec.sp.gov.br)
 
-I'm a Brazilian Junior Programmer working on ([BWS IoT](https://bws-iot.web.app)).<br>
 Graduated in IT Management at FMU (Faculdades Metropolitanas Unidas)
 
 ### My Stacks
