@@ -11,7 +11,7 @@ Graduated in IT Management at FMU (Faculdades Metropolitanas Unidas)
 
 ### My Setup
 ![Processor](https://img.shields.io/badge/AMD-Ryzen_7_3700X-ED1C24?style=for-the-badge&logo=amd&logoColor=white)
-![GPU](https://img.shields.io/badge/NVIDIA-RTX-3060-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![GPU](https://img.shields.io/badge/NVIDIA-GTX-1060-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
